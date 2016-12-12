@@ -18,7 +18,7 @@ iterm2-shortcuts（iterm 2 快捷键）
 #####查看剪贴板历史：command + shift + h
 
 #####其他
->* 清除当前行：ctrl + u
+>* 清除光标前字符：ctrl + u
 >* 到行首：ctrl + a
 >* 到行尾：ctrl + e
 >* 前进后退：ctrl + f/b (相当于左右方向键)
